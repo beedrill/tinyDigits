@@ -1,4 +1,4 @@
-# Javascript functions that transform number to subscript or sperscript **UNICODE**
+# Javascript functions that transform to tiny numbers
 ## Usage
 This is a Javascript function that transform integer into superscript or subscript.
 These functions is used for the situation when you want to style your output, such as *Discord.js*.
